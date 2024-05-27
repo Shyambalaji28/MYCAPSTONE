@@ -147,7 +147,7 @@ def video_table(df_video):
     mydb = mysql.connector.connect(
         host="localhost",
         user="root",
-        password="Shoaib@21",
+        password="Apple@123",
         database="tabledata"
     )
     mycursor = mydb.cursor()
