@@ -1,4 +1,4 @@
-# MYCAPSTONE
+# MYCAPSTONE ON YOUTUBE DATA HARVESTING AND WAREHOUSING 
 These are the Capstone projects in Data Science
 YouTube Data Harvesting and Warehousing is a project designed to empower users to access and analyse data from multiple YouTube channels effortlessly. It utilizes SQL, Pandas, and stream lit to craft a user-friendly application, enabling users to retrieve, store, and query YouTube channel and video data.
 Here's a breakdown of the tools and libraries employed:
